@@ -1,4 +1,30 @@
+## Topic: Project Architecture
+
+### What is Separation of Concerns?
+
+Separation of Concerns means each layer of the application has a single responsibility.
+
+Routes
+→ Receive requests.
+
+Controllers
+→ Handle request/response.
+
+Services
+→ Business logic.
+
+Models
+→ Database interaction.
+
+Benefits:
+- Easier maintenance
+- Easier testing
+- Cleaner code
+- Better scalability
+
+
 # Milestone 1 – Backend Foundation
+
 
 ## Goal
 
